@@ -32,4 +32,4 @@ Visit Baghdad Stays (https://sajashaker21.github.io/hotels/)
 Made with love for Baghdad and its people. 🇮🇶❤️
 
 #screenshots
-![Dear Baghdad Wesbsite[(hotels.png)
+![Dear Baghdad Wesbsite](hotels.png)
